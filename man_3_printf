@@ -1,0 +1,15 @@
+.\" Manpage for _printf
+.\" Contact eliyastesfu@gmail.com to correct errors or typos.
+.TH man 8 "19 April 2022" "1.0" "man_3_printf"
+.SH NAME
+_printf \- prints any daya type
+.SH SYNOPSIS
+_printf(datatype)
+.SH DESCRIPTION
+_printf is a locally programmed print functionto print datas
+.SH OPTIONS
+The _printf function takes the data you want to be typed as an argument, the data might be of any type
+.SH BUGS
+some bugs - we are trying to remobe the bugs
+.SH AUTHOR
+Elias Tesfu (eliyastesfu@gmail.com)
